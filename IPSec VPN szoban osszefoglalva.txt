@@ -1,0 +1,10 @@
+Az IPSec VPN (Internet Protocol Security Virtual Private Network) egy olyan technológia,
+ amivel biztonságosan lehet két hálózatot vagy eszközt összekapcsolni az interneten keresztül.
+ Titkosítja és hitelesíti az adatforgalmat, hogy az ne legyen lehallgatható vagy módosítható.
+
+Röviden, szóban így foglalhatod össze:
+
+Az IPSec VPN egy biztonságos alagutat hoz létre két eszköz vagy hálózat között az interneten.
+ Titkosítja az adatokat, így azok védve vannak a lehallgatás és módosítás ellen.
+ Olyankor használjuk, ha például két telephely hálózatát akarjuk biztonságosan összekötni, 
+vagy távoli felhasználóként akarunk belső hálózathoz csatlakozni.
