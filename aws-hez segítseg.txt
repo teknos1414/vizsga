@@ -1,0 +1,39 @@
+vpc:
+
+vpc and more
+ipv4 cidr block(ami meglesz adva)
+marad minden 2 ha nem kell valtoztatni
+customize subnet cidr blocks
+In 1 AZ
+
+Security groups:
+
+kell description
+vpc(vizsga vagy ami a neve)
+Inbound-outbound hoz hozzá adsz 2-2(HTTP-SSH)
+anywhere ipv4 mindenhol
+
+route tables:
+
+neve ami kell
+vpc(vizsga vagy ami a neve)
+
+subnets:
+
+public1-us-east-1a
+route table
+
+Ec2:
+
+Ubuntu
+key pair (create new key pair)
+rsa meg pem
+Network settings(edit)
+Select existing security group
+Common security group(amit letre hoztal)
+
+
+1.sudo apt update
+2.sudo apt install apache2
+3.sudo systemctl start apache2
+4.sudo systemctl status apache2
