@@ -26,7 +26,7 @@ route table
 Ec2:
 
 Ubuntu
-key pair (create new key pair)
+key pair (create new key pair SSH)
 rsa meg pem
 Network settings(edit)
 Select existing security group
