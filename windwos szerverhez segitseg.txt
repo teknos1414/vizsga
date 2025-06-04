@@ -1,4 +1,15 @@
 jelszo atallitas:
+server managenet
+tools
+grop policy management
+default domain(jobb click edit)
+policies(elso)
+windows settings(masodik)
+security settings(3,vagy amelyik)
+account policies(lenyitod)
+password policy(ranyomsz)
+password must meet comlexity(5-dik)
+
 
 dhcp(ipv4)
 nyomtato szolgáltatások leallitasa
