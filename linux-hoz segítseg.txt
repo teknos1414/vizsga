@@ -1,0 +1,5 @@
+1.sudo crontab -e
+-0 2 * * tar -zcf...stb
+
+2. sudo nano /etc/hosts
+ip + nev
