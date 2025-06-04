@@ -1,0 +1,8 @@
+jelszo atallitas:
+
+dhcp(ipv4)
+nyomtato szolgáltatások leallitasa
+-tools
+-szolgáltatások
+-nyomtatot kikeresed(hulye neve van)
+-ranyomsz es letiltas
