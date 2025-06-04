@@ -32,7 +32,8 @@ Network settings(edit)
 Select existing security group
 Common security group(amit letre hoztal)
 
-
+powershell:
+ssh -i "atirod ahova letoltotte a .pem-et"ubuntu@(ide pedig a 4.connect a @-utan bemasolva)
 1.sudo apt update
 2.sudo apt install apache2
 3.sudo systemctl start apache2
